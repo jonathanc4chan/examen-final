@@ -10,9 +10,13 @@ import java.sql.SQLException;
 
 public class examenfinal {
     public static void main(String[] args) {
+    
         // Datos del estudiante a insertar
+        
         int carnet = 12345;
+        
         String nombre = "Juan";
+        
         int edad = 20;
 
         // Detalles de la conexión a la base de datos
